@@ -1,28 +1,25 @@
+# Parts are left out so that the chapters keep the numbers they have on Alps.
 format: jb-book
-parts:
-- caption: Front Matter
-  chapters:
-  - file: chapters/chap00
-- caption: Chapters
-  numbered: true
-  chapters:
-  - file: chapters/chap01
-  - file: chapters/chap02
-  - file: chapters/chap03
-  - file: chapters/chap04
-  - file: chapters/chap05
-  - file: chapters/chap06
-  - file: chapters/chap07
-  - file: chapters/chap08
-  - file: chapters/chap09
-  - file: chapters/chap10
-  - file: chapters/chap11
-  - file: chapters/chap12
-  - file: chapters/chap13
-  - file: chapters/chap14
-  - file: chapters/chap15
-  - file: chapters/chap16
-  - file: chapters/chap17
-  - file: chapters/chap18
-  - file: chapters/chap19
-- caption: End Matter
+chapters:
+- file: chapters/chap00
+- file: chapters/chap01
+- file: chapters/chap02
+- file: chapters/chap03
+- file: chapters/chap04
+- file: chapters/chap05
+- file: chapters/chap06
+- file: chapters/chap07
+- file: chapters/chap08
+- file: chapters/chap09
+- file: chapters/chap10
+- file: chapters/chap11
+- file: chapters/chap12
+- file: chapters/chap13
+- file: chapters/chap14
+- file: chapters/chap15
+- file: chapters/chap16
+- file: chapters/chap17
+- file: chapters/chap18
+- file: chapters/chap19
+- file: about-this-book
+  title: About This Book
